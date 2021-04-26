@@ -4,8 +4,7 @@ Luego de 15 años desempeñándome como Óptica, sentí que era tiempo de un cam
 Me motiva estar aprendiendo constantemente
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP / REACT BOOTSTRAP / NODE.JS / EXPRESS.JS
-<div align="center">  
- 
+<div align="center"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />    
@@ -16,10 +15,6 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP / REACT BOOTSTRAP / NODE.JS / EXPRES
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
   
-
-
-- 📫 How to reach me: mb.castro17@gmail.com 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com//manacastro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//marianabeatrizcastro/)  
 
+- 📫 How to reach me: mb.castro17@gmail.com 
