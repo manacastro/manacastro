@@ -1,14 +1,15 @@
 <div align="center">
  
-### Hello, i'm Mariana Castro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-#### I am Frontend developeer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h2> Hello, i'm Mariana Castro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
+<h3> I am Frontend developeer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+
 Luego de 15 años desempeñándome como Óptica, sentí que era tiempo de un cambio y me incliné por la programación ya que la considero desafiante y creativa.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Me motiva poder trabajar en equipo y estar aprendiendo constantemente
 
 
  
-<p>Skills:<p/> 
+<h3>Skills:</h3>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />    
