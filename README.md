@@ -20,6 +20,8 @@ Luego de 15 años desempeñándome como Óptica, sentí que era tiempo de un cam
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
 
+
+
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=manacastro&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/manacastro)
 
 
