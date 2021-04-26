@@ -5,7 +5,7 @@ Me motiva estar aprendiendo constantemente
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP / REACT BOOTSTRAP / NODE.JS / EXPRESS.JS
 
-- 🔭 I’m currently working on this page. 
+
 - 📫 How to reach me: mb.castro17@gmail.com 
 
 
