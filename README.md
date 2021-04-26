@@ -6,8 +6,6 @@
 Luego de 15 años desempeñándome como Óptica, sentí que era tiempo de un cambio y me incliné por la programación ya que la considero desafiante y creativa.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Me motiva poder trabajar en equipo y estar aprendiendo constantemente
-
-
  
 <h3>Skills:</h3>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
@@ -19,12 +17,18 @@ Luego de 15 años desempeñándome como Óptica, sentí que era tiempo de un cam
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
+<br/>
 
+<br/>
 
+[![manacastro's github stats](https://github-readme-stats.vercel.app/api?username=manacastro&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/manacastro)
+<br/>
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=manacastro&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/manacastro)
+<br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manacastro&show_icons=true&theme=merko&hide=["contribs","issues"])
 
+<br><br>
 
 📫 How to reach me: mb.castro17@gmail.com 
 
