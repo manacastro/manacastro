@@ -3,7 +3,8 @@
 ### Hello, i'm Mariana Castro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 #### I am Frontend developeer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Luego de 15 años desempeñándome como Óptica, sentí que era tiempo de un cambio y me incliné por la programación ya que la considero desafiante y creativa.
-Me motiva estar aprendiendo constantemente.
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Me motiva poder trabajar en equipo y estar aprendiendo constantemente
 
 
  
