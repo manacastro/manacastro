@@ -4,7 +4,9 @@ Luego de 15 años desempeñándome como Óptica, sentí que era tiempo de un cam
 Me motiva estar aprendiendo constantemente.
 
 <div align="center">
+ 
 Skills:
+<b/>
  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
