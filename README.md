@@ -8,7 +8,7 @@ Luego de 15 años desempeñándome como Óptica, sentí que era tiempo de un cam
 
 
  
-Skills:
+<h1>Skills:<h1/>
 
  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
