@@ -1,7 +1,7 @@
 <div align="center">
  
 <h2> Hello, i'm Mariana Castro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
-<h3> I am Frontend developeer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> I am Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 Luego de 15 años desempeñándome como Óptica, sentí que era tiempo de un cambio y me incliné por la programación ya que la considero desafiante y creativa.
 
